@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel='stylesheet' type="text/css" href='styles.css'>
+  </head>
+  <body>
+    <div class="scoreboard">
+      <!-- Modify the scoreboard when important events occur in your game! -->
+      <div class="score highscore">High score: 
+        <span id="count1" class="count">0</span>
+        <audio src="/lib/altBeast.mp3" controls class='music'></audio>
+      </div>
+      <div class="score current">Current score: <span id="count2" class="count">0</span></div>
+      <div class="score collisions">Collisions: <span id="count3" class="count">0</span></div>
+    </div>
+    <div class="board">
+      <div class="mouse"></div>
+    </div>
+    <script src="lib/d3.js" charset="utf-8"></script>
+    <script src='watchout.js'></script>
+  </body>
+</html>
