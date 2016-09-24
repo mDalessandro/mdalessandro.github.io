@@ -1,0 +1,21 @@
+## Mac OSX ##
+.DS_Store
+
+## NPM ##
+node_modules/
+npm-debug.log
+
+## Bower ##
+bower_components/
+client/lib/
+client/bower_components/
+
+## Compiled files ##
+build/
+
+## API keys ##
+.env
+## Others ##
+.floo
+.flooignore
+.tern-project

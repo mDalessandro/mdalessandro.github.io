@@ -1,0 +1,17 @@
+{
+  "name": "mdalessandro.github.io",
+  "version": "0.0.1",
+  "main": "./index.html",
+  "author": "Matthew D'Alessandro",
+  "license": "",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "d3": "^3.5.17",
+    "jquery": "^2.2.3",
+    "underscore": "^1.8.3"
+  }
+}
