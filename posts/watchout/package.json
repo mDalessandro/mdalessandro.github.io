@@ -6,6 +6,5 @@
   "scripts": {
     "test": "echo 'Error: no test specified'",
     "start": "open client/index.html"
-  },
-  "license": "Copyright 2015, Hack Reactor Remote Beta. All rights reserved."
+  }
 }
