@@ -110,7 +110,7 @@ var createBaddies = function(enemy_data) {
       .attr('y', function(baddie) { return axes.y(Math.random()) })
       .attr('width', 50)
       .attr('height', 50)
-      .attr("xlink:href", "/Users/mattdalessandro/desktop/shuriken1.png")
+      .attr("xlink:href", "./lib/shuriken1.png")
       
   baddies.exit()
     .remove()
