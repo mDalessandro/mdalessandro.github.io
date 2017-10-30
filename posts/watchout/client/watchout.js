@@ -1,5 +1,3 @@
-//try writing a custom transition/tween from scratch
-
 var scores = {
   score: 0,
   highScore: 0,
