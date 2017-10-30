@@ -194,23 +194,3 @@ var run = function() {
 
 run();
   
-//seperate function to append enemies  
-  
-//setInterval
-  //change position of enemies
-  //set the tween to the collision check
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
