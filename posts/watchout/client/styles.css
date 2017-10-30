@@ -25,7 +25,7 @@ body, .count{
   background-color: #555;
   border: 2px solid grey;
 }
-@-webkit-keyframes rotate {
+/*@-webkit-keyframes rotate {
   from {
     -webkit-transform: rotate(0deg);
   }
@@ -38,7 +38,7 @@ body, .count{
   -webkit-animation-duration: 2.5s; 
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-timing-function: ease-in-out;
-}
+}*/
 
 
 
